@@ -1,0 +1,11 @@
+:root {
+    background-color: #f0f0fa;
+    font-size: 20px;
+    margin: auto auto auto auto;
+    width: 1000px;
+    text-align: center;
+}
+footer {
+    padding-top: 40px;
+    font-size: 60px;
+}
