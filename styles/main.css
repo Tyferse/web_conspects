@@ -1,0 +1,14 @@
+:root {
+    background-color: white;
+    font-size: 20px;
+    margin: auto auto auto auto;
+    width: 1000px;
+    text-align: center;
+}
+h1, h2, h3, h4 {
+    padding: 10px 0;
+}
+footer {
+    padding-top: 40px;
+    font-size: 60px;
+}
